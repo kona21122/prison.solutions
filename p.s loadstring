@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kona21122/prison.solutions/main/prison.solutions"))()
